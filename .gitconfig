@@ -1,0 +1,6 @@
+[user]
+	email = brian.kurr@gmail.com
+	name = brian
+[alias]
+	st = status
+	co = checkout
