@@ -1,0 +1,30 @@
+{
+  "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.rulers": [120],
+  "window.zoomLevel": 3,
+  "typescript.suggest.completeFunctionCalls": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.pep8Enabled": true,
+  "python.linting.pep8Args": ["--max-line-length=120"],
+  "python.venvFolders": [".virtualenvs", "envs", ".pyenv", ".direnv"],
+  "terminal.integrated.scrollback": 10000,
+  "git.confirmSync": false,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontSize": 13,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "liveshare.featureSet": "insiders",
+  "editor.formatOnSave": true,
+  "eslint.packageManager": "yarn",
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "extensions.ignoreRecommendations": true
+}
